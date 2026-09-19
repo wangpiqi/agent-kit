@@ -28,3 +28,6 @@
 [submodule "Figma-Context-MCP"]
 	path = Figma-Context-MCP
 	url = https://github.com/GLips/Figma-Context-MCP.git
+[submodule "awesome-cursor-rules-mdc"]
+	path = awesome-cursor-rules-mdc
+	url = https://github.com/sanjeed5/awesome-cursor-rules-mdc.git
