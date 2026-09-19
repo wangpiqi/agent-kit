@@ -34,3 +34,9 @@
 [submodule "oh-my-openagent"]
 	path = oh-my-openagent
 	url = https://github.com/code-yeongyu/oh-my-openagent.git
+[submodule "figma-console-mcp"]
+	path = figma-console-mcp
+	url = https://github.com/southleft/figma-console-mcp.git
+[submodule "codex-with-chatgpt"]
+	path = codex-with-chatgpt
+	url = https://github.com/XiaoDuoYa/codex-with-chatgpt.git
