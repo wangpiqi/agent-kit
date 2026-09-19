@@ -31,3 +31,6 @@
 [submodule "awesome-cursor-rules-mdc"]
 	path = awesome-cursor-rules-mdc
 	url = https://github.com/sanjeed5/awesome-cursor-rules-mdc.git
+[submodule "oh-my-openagent"]
+	path = oh-my-openagent
+	url = https://github.com/code-yeongyu/oh-my-openagent.git
