@@ -7,3 +7,24 @@
 [submodule "andrej-karpathy-skills"]
 	path = andrej-karpathy-skills
 	url = https://github.com/multica-ai/andrej-karpathy-skills.git
+[submodule "humanizer"]
+	path = humanizer
+	url = https://github.com/blader/humanizer.git
+[submodule "agent-rules"]
+	path = agent-rules
+	url = https://github.com/steipete/agent-rules.git
+[submodule "cc-switch"]
+	path = cc-switch
+	url = https://github.com/farion1231/cc-switch.git
+[submodule "awesome-claude-skills"]
+	path = awesome-claude-skills
+	url = https://github.com/ComposioHQ/awesome-claude-skills.git
+[submodule "awesome-cursorrules"]
+	path = awesome-cursorrules
+	url = https://github.com/PatrickJS/awesome-cursorrules.git
+[submodule "FREE-openai-api-keys"]
+	path = FREE-openai-api-keys
+	url = https://github.com/dan1471/FREE-openai-api-keys.git
+[submodule "Figma-Context-MCP"]
+	path = Figma-Context-MCP
+	url = https://github.com/GLips/Figma-Context-MCP.git
