@@ -40,3 +40,9 @@
 [submodule "codex-with-chatgpt"]
 	path = codex-with-chatgpt
 	url = https://github.com/XiaoDuoYa/codex-with-chatgpt.git
+[submodule "vercel-labs-skills"]
+	path = vercel-labs-skills
+	url = https://github.com/vercel-labs/skills.git
+[submodule "anthropics-skills"]
+	path = anthropics-skills
+	url = https://github.com/anthropics/skills.git
